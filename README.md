@@ -10,4 +10,4 @@ Important steps for git workflow:
 6. Review previous changes with git log
 7. To create a branch use git branch branchname
 8. This is to learn how to pull
-9. 
+9. One more change for the practice
